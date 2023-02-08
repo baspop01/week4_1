@@ -1,2 +1,4 @@
 test git checkout
 second commit
+
+On new branch
